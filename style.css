@@ -1,0 +1,208 @@
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.home-item {
+    margin-left: 50px; /* Adjust the margin-left value as needed */
+    
+}
+.navbar-nav > li {
+    margin-right: 15px;
+    font-size: 17px;
+}
+
+.navbar-nav li a:hover{
+    color:#5cdb95 !important;
+    
+    
+
+}
+.custom-login-button{
+
+    text-decoration: none;
+    font-size: 17px;
+    color: #ffffff; /* Text color */
+    background-color: black; /* Button background color */
+    border: 1px solid white; /* Border color */
+    border-radius: 5px; /* Border radius for rounded corners */
+    padding: 8px 16px; /* Padding around the button text */
+}
+.custom-login-button:hover {
+    /* Styles for when the button is hovered */
+    color:black;
+    background-color: white; /* Change background color on hover */
+    border-color: black; /* Change border color on hover */
+}
+
+.btn{
+     
+    color: #ffffff; /* Text color */
+    background-color: black; /* Button background color */
+    border: 1px solid white; /* Border color */
+    border-radius: 5px; /* Border radius for rounded corners */
+}
+.btn a{
+    text-decoration: none;
+}
+.btn:hover{
+    color:black;
+    background-color: white; /* Change background color on hover */
+    border-color: black; /* Change border color on hover */
+}
+
+.c-item{
+    height:545px;
+
+}
+
+.c-img{
+height:100%;
+object-fit: cover;
+}
+.footercls a{
+text-decoration: none;
+color:white;
+}
+
+.footercls a:hover{
+    color:#5cdb95
+}
+.list-icon{
+   list-style: none;
+   font-size: 23px;
+}
+
+/* Styles for the 2nd page */
+.proh4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color:#5cdb95
+    ;
+}
+.artical1 p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:19px ;
+}
+
+.sidebar a{
+    text-align: center;
+    text-decoration: none;
+}
+.col-md-4 a{
+    text-decoration: none;
+    
+
+}
+.col-md-4 a:hover{
+    color:#5cdb95
+}
+
+.articalp2 p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:19px ;
+}
+
+.limodify{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:19px ;
+}
+.limodify2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:19px ;
+}
+.green{
+    color:blueviolet
+}
+
+.violet{
+    border: 1px solid green;
+    background-color: black;
+    color:#5cdb95;
+    border-bottom-right-radius: 20px;
+    padding: 10px 10px;
+}
+
+/* Styles for the Time Management page */
+.hero{
+    background-color: #5cdb95;
+    padding:15px
+
+}
+article{
+    padding-left: 30px;
+    
+}
+
+article h4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color:#5cdb95;
+}
+
+/* Styles for the ABOUT US page */
+.aboutsection{
+    background-color: #5cdb95;
+    padding: 120px 40px
+}
+
+.aboutsection img{
+    max-width: 100%;
+    
+   
+}
+.aboutsection h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bolder;
+    font-size:35px;
+    
+}
+.aboutsection p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 19px;
+    color:white;
+    
+}
+.sectiond {
+    padding:80px;
+}
+.sectiond h5{
+    color:orange;
+}
+.sectiond h2{
+    color: #5cdb95;
+}
+.sectiond p{
+    padding:20px 150px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 19px;
+
+}
+
+/* Styles for the Service page */
+.service1 img{
+    width:100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.service1 h3{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color:white;
+    padding:10px;
+    margin:10px;
+    background-color: black;
+}
+
+.service1 p{
+   
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+
+}
+
+.service1 li{
+   
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+
+}
