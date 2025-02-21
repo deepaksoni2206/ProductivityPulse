@@ -1,0 +1,1 @@
+Productivity Pulse is a content-based website built with HTML, CSS, JavaScript, and Bootstrap. It provides valuable knowledge on exercise, meditation, and diabetes, helping users improve their well-being. With a clean and responsive design, visitors can easily explore informative content and adopt healthier habits
